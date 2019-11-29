@@ -1,6 +1,7 @@
 
 
 
+
 # [Shader Redstone 3](https://www.shadertoy.com/view/wdyXWV) MANUAL (2019-11-28)
 ![enter image description here](https://i.imgur.com/SHuTFuF.png)
 ## Changes from [Shader Redstone 2](https://www.shadertoy.com/view/WdfXD7):
@@ -36,5 +37,8 @@
 ![NOT gate](https://i.imgur.com/iyprINi.png)
 
 ### The *AND* gate:
-Output should be true only when both inputs are true.
+*Output should be true only when both inputs are true.*
 ![enter image description here](https://i.imgur.com/uU7l3mj.png)
+### The *XOR* gate:
+*Output should be true only when either A or B is set to true.*
+![enter image description here](https://i.imgur.com/kW1nUkq.png)
