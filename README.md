@@ -3,7 +3,7 @@
 
 # [Shader Redstone 3](https://www.shadertoy.com/view/wdyXWV) MANUAL (2019-11-28)
 ![enter image description here](https://i.imgur.com/SHuTFuF.png)
-## Changes from Shader Redstone 2:
+## Changes from [Shader Redstone 2](https://www.shadertoy.com/view/WdfXD7):
 * Improved UI (WIP).
 * Full 3D world to edit.
 * AA, AO, Vignette and more effects.
