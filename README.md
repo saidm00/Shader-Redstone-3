@@ -5,7 +5,7 @@
 ## Changes from Shader Redstone 2:
 * Improved UI (WIP).
 * Full 3D world to edit.
-* AA and AO effects.
+* AA, AO, Vignette and more effects.
 * Instant energy propagation through Redstone dust (like Minecraft, allows for accurate clocks).
 * Player movement.
 ## Notes:
