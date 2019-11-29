@@ -25,7 +25,8 @@
 * You can zoom up or down using Q and E by default.
 * You can move quicker using LSHIFT.
 * You can place blocks using F, and remove using R.
-
+* You can switch selected item using LEFT and RIGHT (arrows).
+* You can change Z layer using DOWN and UP (arrows).
 ## Creating Basic Logic Gates:
 
 ### The *OR* gate:
