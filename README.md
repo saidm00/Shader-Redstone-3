@@ -1,7 +1,7 @@
 
 
 # Shader Redstone 3 MANUAL (2019-11-28)
-![enter image description here](https://i.imgur.com/OERAqmX.png)
+![enter image description here](https://i.imgur.com/SHuTFuF.png)
 ## Changes from Shader Redstone 2:
 * Improved UI (WIP).
 * Full 3D world to edit.
