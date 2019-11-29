@@ -11,7 +11,7 @@
 * Player movement.
 ## Notes:
 * Currently Buffer A **Can't compile on Windows** because ANGLE's *DirectX 9* backend (Used by default on Chrome and Firefox on Windows) doesn't fully implement *WebGL 2*. It tries to force unroll loops which are impossible to unroll in the pathfinding function.
-* Cannot power a stone block using Redstone dust yet.
+* Cannot power a stone block using Redstone dust yet except if it's under it, and that's an extra update.
 * This was partly inspired by [Javascript Redstone Simulator](https://mordritch.com/mc_rss/).
 * I used RNG code from [Hash Without Sine 2 (WebGL 2)](https://www.shadertoy.com/view/XdGfRR).
 * I used a SDF font code for the UI from [Shadertext Proportional Spacing](https://www.shadertoy.com/view/4s3XDn).
