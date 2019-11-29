@@ -1,6 +1,7 @@
 
 
-# Shader Redstone 3 MANUAL (2019-11-28)
+
+# [Shader Redstone 3](https://www.shadertoy.com/view/wdyXWV) MANUAL (2019-11-28)
 ![enter image description here](https://i.imgur.com/SHuTFuF.png)
 ## Changes from Shader Redstone 2:
 * Improved UI (WIP).
