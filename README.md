@@ -9,16 +9,9 @@
 ## The basic rules of this system is:
 * Anything which is bright red is lit and anything which is dark red is unlit.
 * Torches are lit by default. 
- ![Redstone Torch](https://i.imgur.com/QWSDgPO.png)
- 
 * Dust is unlit by default.
- ![Redstone Dust](https://i.imgur.com/npKr3zK.png)
- 
 * Energy from torches spreads through dust (*OR* operator).
-![OR gate](https://i.imgur.com/AmRckyF.png)
-
 * If a stone block is lit, any torch attached to the block will be off (*NOT* operator).
-![NOT gate](https://i.imgur.com/IMXgrBW.png)
 
 ## Default Controls:
 * You can move around in the XY plane using WASD by default.
