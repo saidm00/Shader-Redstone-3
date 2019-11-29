@@ -42,3 +42,5 @@
 ### The *XOR* gate:
 *Output should be true only when either A or B is set to true.*
 ![enter image description here](https://i.imgur.com/kW1nUkq.png)
+## Full adder circuit:
+![enter image description here](https://i.imgur.com/gNsC1Ki.png)
